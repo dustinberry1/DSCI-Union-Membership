@@ -1,2 +1,2 @@
 # DSCI_Union_Dues
-Machine learning model to predict whether members of a Data Science union will continue paying dues.
+This project will outline the steps taken to determine whether or not a member of the United Data Scientists Union (UDSU) will continue their membership based on data science practices.
