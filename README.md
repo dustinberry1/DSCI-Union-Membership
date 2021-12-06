@@ -1,2 +1,2 @@
-# DSCI_Union_Dues
+# DSCI-Union-Dues
 This project will outline the steps taken to determine whether or not a member of the United Data Scientists Union (UDSU) will continue their membership based on data science practices.
